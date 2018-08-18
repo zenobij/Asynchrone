@@ -1,0 +1,30 @@
+c:\users\flo\documents\visual studio 2017\Projects\WpfUsingTaskScheduler\WpfUsingTaskScheduler\bin\Debug\WpfUsingTaskScheduler.exe.config
+c:\users\flo\documents\visual studio 2017\Projects\WpfUsingTaskScheduler\WpfUsingTaskScheduler\bin\Debug\WpfUsingTaskScheduler.exe
+c:\users\flo\documents\visual studio 2017\Projects\WpfUsingTaskScheduler\WpfUsingTaskScheduler\bin\Debug\WpfUsingTaskScheduler.pdb
+c:\users\flo\documents\visual studio 2017\Projects\WpfUsingTaskScheduler\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler.csprojResolveAssemblyReference.cache
+c:\users\flo\documents\visual studio 2017\Projects\WpfUsingTaskScheduler\WpfUsingTaskScheduler\obj\Debug\MainWindow.g.cs
+c:\users\flo\documents\visual studio 2017\Projects\WpfUsingTaskScheduler\WpfUsingTaskScheduler\obj\Debug\App.g.cs
+c:\users\flo\documents\visual studio 2017\Projects\WpfUsingTaskScheduler\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler_MarkupCompile.cache
+c:\users\flo\documents\visual studio 2017\Projects\WpfUsingTaskScheduler\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler_MarkupCompile.lref
+c:\users\flo\documents\visual studio 2017\Projects\WpfUsingTaskScheduler\WpfUsingTaskScheduler\obj\Debug\MainWindow.baml
+c:\users\flo\documents\visual studio 2017\Projects\WpfUsingTaskScheduler\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler.g.resources
+c:\users\flo\documents\visual studio 2017\Projects\WpfUsingTaskScheduler\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler.Properties.Resources.resources
+c:\users\flo\documents\visual studio 2017\Projects\WpfUsingTaskScheduler\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler.csproj.GenerateResource.cache
+c:\users\flo\documents\visual studio 2017\Projects\WpfUsingTaskScheduler\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler.csproj.CoreCompileInputs.cache
+c:\users\flo\documents\visual studio 2017\Projects\WpfUsingTaskScheduler\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler.exe
+c:\users\flo\documents\visual studio 2017\Projects\WpfUsingTaskScheduler\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler.pdb
+M:\SDCdot04\Asynchrone\WpfUsingTaskScheduler Flo\WpfUsingTaskScheduler\bin\Debug\WpfUsingTaskScheduler.exe.config
+M:\SDCdot04\Asynchrone\WpfUsingTaskScheduler Flo\WpfUsingTaskScheduler\bin\Debug\WpfUsingTaskScheduler.exe
+M:\SDCdot04\Asynchrone\WpfUsingTaskScheduler Flo\WpfUsingTaskScheduler\bin\Debug\WpfUsingTaskScheduler.pdb
+M:\SDCdot04\Asynchrone\WpfUsingTaskScheduler Flo\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler.csprojResolveAssemblyReference.cache
+M:\SDCdot04\Asynchrone\WpfUsingTaskScheduler Flo\WpfUsingTaskScheduler\obj\Debug\MainWindow.g.cs
+M:\SDCdot04\Asynchrone\WpfUsingTaskScheduler Flo\WpfUsingTaskScheduler\obj\Debug\App.g.cs
+M:\SDCdot04\Asynchrone\WpfUsingTaskScheduler Flo\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler_MarkupCompile.cache
+M:\SDCdot04\Asynchrone\WpfUsingTaskScheduler Flo\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler_MarkupCompile.lref
+M:\SDCdot04\Asynchrone\WpfUsingTaskScheduler Flo\WpfUsingTaskScheduler\obj\Debug\MainWindow.baml
+M:\SDCdot04\Asynchrone\WpfUsingTaskScheduler Flo\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler.g.resources
+M:\SDCdot04\Asynchrone\WpfUsingTaskScheduler Flo\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler.Properties.Resources.resources
+M:\SDCdot04\Asynchrone\WpfUsingTaskScheduler Flo\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler.csproj.GenerateResource.Cache
+M:\SDCdot04\Asynchrone\WpfUsingTaskScheduler Flo\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler.csproj.CoreCompileInputs.cache
+M:\SDCdot04\Asynchrone\WpfUsingTaskScheduler Flo\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler.exe
+M:\SDCdot04\Asynchrone\WpfUsingTaskScheduler Flo\WpfUsingTaskScheduler\obj\Debug\WpfUsingTaskScheduler.pdb

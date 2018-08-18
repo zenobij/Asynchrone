@@ -1,0 +1,6 @@
+C:\Users\studentdot0412\Desktop\SolutionMath\ClassLibraryMath\bin\Debug\ClassLibraryMath.dll
+C:\Users\studentdot0412\Desktop\SolutionMath\ClassLibraryMath\bin\Debug\ClassLibraryMath.pdb
+C:\Users\studentdot0412\Desktop\SolutionMath\ClassLibraryMath\obj\Debug\WPFAsyc.dll.csprojResolveAssemblyReference.cache
+C:\Users\studentdot0412\Desktop\SolutionMath\ClassLibraryMath\obj\Debug\WPFAsyc.dll.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0412\Desktop\SolutionMath\ClassLibraryMath\obj\Debug\ClassLibraryMath.dll
+C:\Users\studentdot0412\Desktop\SolutionMath\ClassLibraryMath\obj\Debug\ClassLibraryMath.pdb

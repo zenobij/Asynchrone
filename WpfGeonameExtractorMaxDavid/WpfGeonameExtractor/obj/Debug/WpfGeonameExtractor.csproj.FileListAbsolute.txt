@@ -1,0 +1,17 @@
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\bin\Debug\WpfGeonameExtractor.exe.config
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\bin\Debug\WpfGeonameExtractor.exe
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\bin\Debug\WpfGeonameExtractor.pdb
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\bin\Debug\DotNetZip.dll
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\bin\Debug\DotNetZip.xml
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\obj\Debug\WpfGeonameExtractor.csprojResolveAssemblyReference.cache
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\obj\Debug\MainWindow.g.cs
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\obj\Debug\App.g.cs
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\obj\Debug\WpfGeonameExtractor_MarkupCompile.cache
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\obj\Debug\WpfGeonameExtractor_MarkupCompile.lref
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\obj\Debug\MainWindow.baml
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\obj\Debug\WpfGeonameExtractor.g.resources
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\obj\Debug\WpfGeonameExtractor.Properties.Resources.resources
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\obj\Debug\WpfGeonameExtractor.csproj.GenerateResource.Cache
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\obj\Debug\WpfGeonameExtractor.csproj.CoreCompileInputs.cache
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\obj\Debug\WpfGeonameExtractor.exe
+C:\Dev\_Threading Async\WpfGeonameExtractor\WpfGeonameExtractor\obj\Debug\WpfGeonameExtractor.pdb

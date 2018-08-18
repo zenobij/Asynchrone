@@ -1,0 +1,102 @@
+C:\devnet\WebNewControls\WebNewControls\bin\Debug\WebNewControls.exe.config
+C:\devnet\WebNewControls\WebNewControls\bin\Debug\WebNewControls.exe
+C:\devnet\WebNewControls\WebNewControls\bin\Debug\WebNewControls.pdb
+C:\devnet\WebNewControls\WebNewControls\obj\Debug\MainWindow.g.cs
+C:\devnet\WebNewControls\WebNewControls\obj\Debug\App.g.cs
+C:\devnet\WebNewControls\WebNewControls\obj\Debug\WebNewControls_MarkupCompile.cache
+C:\devnet\WebNewControls\WebNewControls\obj\Debug\WebNewControls_MarkupCompile.lref
+C:\devnet\WebNewControls\WebNewControls\obj\Debug\MainWindow.baml
+C:\devnet\WebNewControls\WebNewControls\obj\Debug\WebNewControls.g.resources
+C:\devnet\WebNewControls\WebNewControls\obj\Debug\WebNewControls.Properties.Resources.resources
+C:\devnet\WebNewControls\WebNewControls\obj\Debug\WebNewControls.csproj.GenerateResource.Cache
+C:\devnet\WebNewControls\WebNewControls\obj\Debug\WebNewControls.csproj.CoreCompileInputs.cache
+C:\devnet\WebNewControls\WebNewControls\obj\Debug\WebNewControls.exe
+C:\devnet\WebNewControls\WebNewControls\obj\Debug\WebNewControls.pdb
+C:\devnet\WebNewControls\WebNewControls\obj\Debug\WebNewControls.csprojResolveAssemblyReference.cache
+C:\devnet\WebNewControls\WebNewControls\obj\Debug\SimpleUserControl.g.cs
+C:\devnet\WebNewControls\WebNewControls\obj\Debug\SimpleUserControl.baml
+C:\devnet\WebNewControls\WebNewControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\devnet\WpfNewControls\WebNewControls\bin\Debug\WebNewControls.exe.config
+C:\devnet\WpfNewControls\WebNewControls\bin\Debug\WebNewControls.exe
+C:\devnet\WpfNewControls\WebNewControls\bin\Debug\WebNewControls.pdb
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\MainWindow.g.cs
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\SimpleUserControl.g.cs
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\App.g.cs
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\WebNewControls_MarkupCompile.cache
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\WebNewControls_MarkupCompile.lref
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\MainWindow.baml
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\SimpleUserControl.baml
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\Themes\Generic.baml
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\WebNewControls.g.resources
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\WebNewControls.Properties.Resources.resources
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\WebNewControls.csproj.GenerateResource.Cache
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\WebNewControls.csproj.CoreCompileInputs.cache
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\WebNewControls.exe
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\WebNewControls.pdb
+C:\devnet\WpfNewControls\WebNewControls\bin\Debug\ClassLibraryMath.dll
+C:\devnet\WpfNewControls\WebNewControls\bin\Debug\ClassLibraryMath.pdb
+C:\devnet\WpfNewControls\WebNewControls\obj\Debug\WebNewControls.csprojResolveAssemblyReference.cache
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\bin\Debug\WebNewControls.exe.config
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\bin\Debug\WebNewControls.exe
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\bin\Debug\WebNewControls.pdb
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\bin\Debug\ClassLibraryMath.dll
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\bin\Debug\ClassLibraryMath.pdb
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\WebNewControls.csprojResolveAssemblyReference.cache
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\MainWindow.g.cs
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\SimpleUserControl.g.cs
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\App.g.cs
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\WebNewControls_MarkupCompile.cache
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\WebNewControls_MarkupCompile.lref
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\MainWindow.baml
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\SimpleUserControl.baml
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\Themes\Generic.baml
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\WebNewControls.g.resources
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\WebNewControls.Properties.Resources.resources
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\WebNewControls.csproj.GenerateResource.Cache
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\WebNewControls.csproj.CoreCompileInputs.cache
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\WebNewControls.exe
+C:\Dev\_Threading Async\WpfNewControls\WebNewControls\obj\Debug\WebNewControls.pdb
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\bin\Debug\WebNewControls.exe.config
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\bin\Debug\WebNewControls.exe
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\bin\Debug\WebNewControls.pdb
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\bin\Debug\ClassLibraryMath.dll
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\bin\Debug\ClassLibraryMath.pdb
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\WebNewControls.csprojResolveAssemblyReference.cache
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\MainWindow.g.cs
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\SimpleUserControl.g.cs
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\App.g.cs
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\WebNewControls_MarkupCompile.cache
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\WebNewControls_MarkupCompile.lref
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\MainWindow.baml
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\SimpleUserControl.baml
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\Themes\Generic.baml
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\WebNewControls.g.resources
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\WebNewControls.Properties.Resources.resources
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\WebNewControls.csproj.GenerateResource.Cache
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\WebNewControls.csproj.CoreCompileInputs.cache
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\WebNewControls.exe
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\WebNewControls\obj\Debug\WebNewControls.pdb
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\bin\Debug\WebNewControls.exe.config
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\bin\Debug\WebNewControls.exe
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\bin\Debug\WebNewControls.pdb
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\bin\Debug\ClassLibraryMath.dll
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\bin\Debug\ClassLibraryMath.pdb
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\WebNewControls.csprojResolveAssemblyReference.cache
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\MainWindow.g.cs
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\SimpleUserControl.g.cs
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\App.g.cs
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\WebNewControls_MarkupCompile.cache
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\WebNewControls_MarkupCompile.lref
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\MainWindow.baml
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\SimpleUserControl.baml
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\Themes\Generic.baml
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\WebNewControls.g.resources
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\WebNewControls.Properties.Resources.resources
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\WebNewControls.csproj.GenerateResource.Cache
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\WebNewControls.csproj.CoreCompileInputs.cache
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\WebNewControls.exe
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000 - Copie - Copie\WebNewControls\obj\Debug\WebNewControls.pdb

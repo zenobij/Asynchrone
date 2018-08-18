@@ -1,0 +1,15 @@
+C:\DevNet\WPFGeonameAsyncSolution\WPFGeonameAsync\bin\Debug\WPFGeonameAsync.exe.config
+C:\DevNet\WPFGeonameAsyncSolution\WPFGeonameAsync\bin\Debug\WPFGeonameAsync.exe
+C:\DevNet\WPFGeonameAsyncSolution\WPFGeonameAsync\bin\Debug\WPFGeonameAsync.pdb
+C:\DevNet\WPFGeonameAsyncSolution\WPFGeonameAsync\obj\Debug\WPFGeonameAsync.csprojResolveAssemblyReference.cache
+C:\DevNet\WPFGeonameAsyncSolution\WPFGeonameAsync\obj\Debug\MainWindow.g.cs
+C:\DevNet\WPFGeonameAsyncSolution\WPFGeonameAsync\obj\Debug\App.g.cs
+C:\DevNet\WPFGeonameAsyncSolution\WPFGeonameAsync\obj\Debug\WPFGeonameAsync_MarkupCompile.cache
+C:\DevNet\WPFGeonameAsyncSolution\WPFGeonameAsync\obj\Debug\WPFGeonameAsync_MarkupCompile.lref
+C:\DevNet\WPFGeonameAsyncSolution\WPFGeonameAsync\obj\Debug\MainWindow.baml
+C:\DevNet\WPFGeonameAsyncSolution\WPFGeonameAsync\obj\Debug\WPFGeonameAsync.g.resources
+C:\DevNet\WPFGeonameAsyncSolution\WPFGeonameAsync\obj\Debug\WPFGeonameAsync.Properties.Resources.resources
+C:\DevNet\WPFGeonameAsyncSolution\WPFGeonameAsync\obj\Debug\WPFGeonameAsync.csproj.GenerateResource.Cache
+C:\DevNet\WPFGeonameAsyncSolution\WPFGeonameAsync\obj\Debug\WPFGeonameAsync.csproj.CoreCompileInputs.cache
+C:\DevNet\WPFGeonameAsyncSolution\WPFGeonameAsync\obj\Debug\WPFGeonameAsync.exe
+C:\DevNet\WPFGeonameAsyncSolution\WPFGeonameAsync\obj\Debug\WPFGeonameAsync.pdb

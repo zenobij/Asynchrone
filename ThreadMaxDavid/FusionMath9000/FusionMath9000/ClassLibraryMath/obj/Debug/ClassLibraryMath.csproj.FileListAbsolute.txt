@@ -1,0 +1,16 @@
+P:\devnet\SolutionMath\ClassLibraryMath\bin\Debug\ClassLibraryMath.dll
+P:\devnet\SolutionMath\ClassLibraryMath\bin\Debug\ClassLibraryMath.pdb
+P:\devnet\SolutionMath\ClassLibraryMath\obj\Debug\ClassLibraryMath.dll
+P:\devnet\SolutionMath\ClassLibraryMath\obj\Debug\ClassLibraryMath.pdb
+C:\devnet\SolutionMath\ClassLibraryMath\bin\Debug\ClassLibraryMath.dll
+C:\devnet\SolutionMath\ClassLibraryMath\bin\Debug\ClassLibraryMath.pdb
+C:\devnet\SolutionMath\ClassLibraryMath\obj\Debug\ClassLibraryMath.dll
+C:\devnet\SolutionMath\ClassLibraryMath\obj\Debug\ClassLibraryMath.pdb
+C:\devnet\SolutionMath\ClassLibraryMath\obj\Debug\ClassLibraryMath.csproj.CoreCompileInputs.cache
+C:\devnet\SolutionMath\ClassLibraryMath\obj\Debug\ClassLibraryMath.csprojResolveAssemblyReference.cache
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\ClassLibraryMath\bin\Debug\ClassLibraryMath.dll
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\ClassLibraryMath\bin\Debug\ClassLibraryMath.pdb
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\ClassLibraryMath\obj\Debug\ClassLibraryMath.csprojResolveAssemblyReference.cache
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\ClassLibraryMath\obj\Debug\ClassLibraryMath.csproj.CoreCompileInputs.cache
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\ClassLibraryMath\obj\Debug\ClassLibraryMath.dll
+C:\Dev\_Threading Async\FusionMath9000\FusionMath9000\ClassLibraryMath\obj\Debug\ClassLibraryMath.pdb

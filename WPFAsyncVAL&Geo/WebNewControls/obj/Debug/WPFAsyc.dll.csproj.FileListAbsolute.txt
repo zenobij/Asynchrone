@@ -1,0 +1,2 @@
+F:\DevNotExercises\WPFAsync\WebNewControls\obj\Debug\WPFAsyc.dll.csprojResolveAssemblyReference.cache
+F:\DevNotExercises\WPFAsync\WebNewControls\obj\Debug\WPFAsyc.dll.csproj.CoreCompileInputs.cache

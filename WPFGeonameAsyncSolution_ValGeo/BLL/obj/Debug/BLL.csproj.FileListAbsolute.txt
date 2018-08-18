@@ -1,0 +1,12 @@
+C:\DevNet\WPFGeonameAsyncSolution\BLL\bin\Debug\BLL.dll
+C:\DevNet\WPFGeonameAsyncSolution\BLL\bin\Debug\BLL.pdb
+C:\DevNet\WPFGeonameAsyncSolution\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\DevNet\WPFGeonameAsyncSolution\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\DevNet\WPFGeonameAsyncSolution\BLL\obj\Debug\BLL.dll
+C:\DevNet\WPFGeonameAsyncSolution\BLL\obj\Debug\BLL.pdb
+C:\DevNet\WPFGeonameAsyncSolution_ValGeo\BLL\bin\Debug\BLL.dll
+C:\DevNet\WPFGeonameAsyncSolution_ValGeo\BLL\bin\Debug\BLL.pdb
+C:\DevNet\WPFGeonameAsyncSolution_ValGeo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\DevNet\WPFGeonameAsyncSolution_ValGeo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\DevNet\WPFGeonameAsyncSolution_ValGeo\BLL\obj\Debug\BLL.dll
+C:\DevNet\WPFGeonameAsyncSolution_ValGeo\BLL\obj\Debug\BLL.pdb
